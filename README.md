@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hugo_Lamy
-- 👀 I’m interested in building Tech solution / Finance
+- 👀 I’m interested in building / Selling Gen AI 
 - 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on startup projects / corporate position 
-- 💻 Currently founder of a High-end specialized reseach engine for tattoo sourcing. 
+- 💻 Currently founder of a High-end specialized research engine for tattoo sourcing. 
 - 📫 How to reach me hugolamy77@gmail.com / https://www.linkedin.com/in/hugo-lamy-8b606b9b/
 
 <!---
